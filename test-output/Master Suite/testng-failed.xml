@@ -15,6 +15,13 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- testCases.TC002_LoginPageTest -->
+      <class name="testCases.TC001_RegistrationPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="registrationPageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC001_RegistrationPageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
